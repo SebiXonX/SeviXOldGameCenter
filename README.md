@@ -2,7 +2,7 @@
 
 SeviX Old Game Center to jest program służący do pobierania oraz grania w stare tytuły które nie są wspieranie przez twórców oraz Licencja na nie wygasła.
 Autor nie ponosi odpowiedzialności prawnej za produkt lecz zastrzega sobie jego prawa autorskie. Wersja beta Edition jest otwarto-źródłowa ale nie można jej podrabiać i oddawać jako własny produkt. 
-# Ten Program będzie, był i jest DARMOWY
+Ten Program będzie, był i jest DARMOWY
 
 Jest on oparty na licencji własnej.
 
